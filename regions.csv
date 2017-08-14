@@ -1,14 +1,14 @@
-id,name
-1,Central Saanich
-2,Colwood
-3,Esquimalt
-4,Highlands
-5,Langford
-6,Metchosin
-7,North Saanich
-8,Oak Bay
-9,Saanich
-10,Sidney
-11,Sooke
-12,Victoria
-13,View Royal
+id,name,slug
+1,Central Saanich,central-saanich
+2,Colwood,colwood
+3,Esquimalt,esquimalt
+4,Highlands,highlands
+5,Langford,langford
+6,Metchosin,metchosin
+7,North Saanich,north-saanich
+8,Oak Bay,oak-bay
+9,Saanich,saanich
+10,Sidney,sidney
+11,Sooke,sooke
+12,Victoria,victoria
+13,View Royal,view-royal
