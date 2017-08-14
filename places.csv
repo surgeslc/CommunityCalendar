@@ -1,0 +1,22 @@
+id,region_id,name,abbreviation,street_address,phone,source_url
+1,3,Archie Browning Sports Centre,ABSC,"1151 Esquimalt Road Esquimalt, BC V9A 3N6",250-412-8510,http://www.fitinfitness.ca/recreation_archie.html
+2,3,Esquimalt Recreation Centre,ERC,"527 Fraser Street Esquimalt, BC V9A 6H6",250-412-8500,http://www.fitinfitness.ca/recreation_esquimalt.html
+3,2,Juan de Fuca Recreation Centre,JDFRC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.fitinfitness.ca/recreation_juandefuca.html
+4,2,The Q Centre,TQC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.fitinfitness.ca/recreation_qcentre.html
+5,8,Henderson Recreation Centre,HRC,"2291 Cedar Hill X Road Victoria, BC V8P 5H9",250-370-7200,http://www.fitinfitness.ca/recreation_henderson.html
+6,8,Monterey Recreation Centre,MRC,"1442 Monterey Avenue Victoria, BC V8S 4W1",250-370-7300,http://www.fitinfitness.ca/recreation_monterey.html
+7,8,Oak Bay Recreation Centre,OBRC,"1975 Bee Street Victoria, BC V8R 5E6",250-595-7946,http://www.fitinfitness.ca/recreation_oakbay.html
+8,7,Panorama Recreation Centre,PanRC,"1885 Forest Park Drive North Saanich, BC V8L 4A3",250-656-7271,http://www.fitinfitness.ca/recreation_panorama.html
+9,10,Greenglade Community Centre,GCC,"2151 Lannon Way Sidney, BC  V8L 3Z1",250-656-7055,https://www.crd.bc.ca/panorama/facilities/greenglade-community
+10,9,Cedar Hill Golf Course,CHGC,"1400 Derby Road Victoria, BC V8P 1T1",250-475-7151,http://www.fitinfitness.ca/recreation_cedarhillgolf.html
+11,9,Cedar Hill Recreation Centre,CHRC,"3220 Cedar Hill Road Victoria, BC V8P 3Y3",250-475-7121,http://www.fitinfitness.ca/recreation_cedarhillrec.html
+12,9,Gordon Head Recreation Centre,GHRC,"4100 Lambrick Way (off Feltham Road) Victoria, BC V8N 5R3",250-475-7100,http://www.fitinfitness.ca/recreation_gordonhead.html
+13,9,Pearkes Recreation Centre,PearkesRC,"3100 Tillicum Road Victoria, BC V9A 6T2",250-475-5400,http://www.fitinfitness.ca/recreation_pearkes.html
+14,,,,,,
+15,,,,,,
+16,,,,,,
+17,,,,,,
+18,,,,,,
+19,,,,,,
+20,,,,,,
+21,,,,,,
