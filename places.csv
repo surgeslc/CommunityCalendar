@@ -32,7 +32,7 @@ id,region_id,name,abbreviation,street_address,phone,source_url,redirect_to,slug
 31,12,Fairfield Community Centre - Garry Oaks Room,FCC-GAR,"Thurlow Rd Victoria BC V8S 5K2",,,,fairfield-community-centre---garry-oaks-room
 32,12,James Bay Community School Centre,JBCSC,"140 Oswego St Victoria BC, V8V 2B1",250-389-1470,http://www.jamesbaycentre.ca/,,james-bay-community-school-centre
 33,12,Oaklands Neighbourhood House (Little Acorn),ONH-LA,"2629 Victor St Victoria, BC  V8R 4E3",250-370-9103,http://www.oaklandscommunitycentre.com/,,oaklands-neighbourhood-house-(little-acorn)
-34,12,YMCA-YWCA Downtown,Y-Downtown,"851 Broughton St Victoria, BC V8W 1E5",250-386-7511,http://www.fitinfitness.ca/recreation_ymywca.html,,ymca-ywca-downtown
+34,12,YMCA-YWCA Downtown,Y-Downtown,"851 Broughton St Victoria, BC V8W 1E5",250-386-7511,https://vancouverislandy.com/,,ymca-ywca-downtown
 35,11,SEAPARC Leisure Complex,SEAPARC,"2168 Phillips Rd Sooke, BC V0S 1N0",250-642-8000,http://www.fitinfitness.ca/recreation_seaparc.html,,seaparc-leisure-complex
 36,5,Eagle Ridge Community Centre,ERCC,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,eagle-ridge-community-centre
 37,5,North Langford Recreation Centre,NLRC,"1999 Country Club Way Victoria, BC V9B 6R3",250-391-7160,https://bearmountain.ca/recreation/fitness/,,north-langford-recreation-centre
@@ -40,4 +40,18 @@ id,region_id,name,abbreviation,street_address,phone,source_url,redirect_to,slug
 39,5,Westhills Arena,WHA,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,westhills-arena
 40,5,Westhills Stadium,WHS,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,westhills-stadium
 41,5,Goudy Field,GF,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,goudy-field
-42,5,City Centre Park Mini-Golf,CCPMG,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,city-centre-park-mini-golf
+42,5,City Centre Park Family Fun Zone,CCPFFZ,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,city-centre-park-family-fun-zone
+43,5,YMCA-YWCA Westhills,Y-Westhills,"1319 Westhills Drive Langford, BC V9B 0S2",250-386-7511,https://vancouverislandy.com/,,ymca-ywca-westhills
+44,13,YMCA-YWCA Eagle Creek,Y-EagleCreek,"110– 25 Helmcken Rd
+View Royal, BC V8Z 5G5",250-386-7511,https://vancouverislandy.com/,,ymca-ywca-eagle-creek
+45,5,Centennial Centre,CC,"Goldstream & Carlow Langford, BC",,http://www.langford.ca/EN/main/lifestyle/amenities/centennial-centre.html,,centennial-centre
+46,2,Bear Mountain Arena,BMA,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.westshorerecreation.ca/,,bear-mountain-arena
+47,2,Juan de Fuca Arena,JDFA,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.westshorerecreation.ca/,,juan-de-fuca-arena
+48,2,WildPlay West Shore Element Park,WPWSEP,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,https://wildplay.com/victoria/,,wildplay-west-shore-element-park
+49,2,Juan de Fuca Par 3 Golf Course,JDFGC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.westshorerecreation.ca/,,juan-de-fuca-par-3-golf-course
+50,13,Shoreline Community Middle School,SCMS,"2750 Shoreline Dr Victoria, BC V9B 1M6",250-386-8367,http://www.shorelinecommunityschool.ca/,,shoreline-community-middle-school
+51,1,Butchart Gardens,BG,"800 Benvenuto Ave Brentwood Bay, BC V8M 1J8",250-652-5256,http://www.butchartgardens.com/,,butchart-gardens
+52,6,Metchosin Arts and Cultural Centre,MACC,"4495 Happy Valley Rd Metchosin, BC",250-478-9223,http://www.district.metchosin.bc.ca/content/arts-and-cultural-centre,,metchosin-arts-and-cultural-centre
+53,10,Shaw Centre for the Salish Sea,SCSS,"9811 Seaport Place Sidney, BC, V8L 4X3",250-665-7511,https://www.salishseacentre.org/#end,,shaw-centre-for-the-salish-sea
+54,7,British Columbia Aviation Museum,BCAM,"1910 Norseman Rd North Saanich, BC V8L 5V5",250-655-3300,https://www.bcam.net/,,british-columbia-aviation-museum
+55,4,Caleb Pike House,CPH,"1589 Millstream Rd Highlands, BC",,http://www.highlands.ca/,,caleb-pike-house
