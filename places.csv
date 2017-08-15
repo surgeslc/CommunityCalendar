@@ -1,22 +1,43 @@
-id,region_id,name,abbreviation,street_address,phone,source_url
-1,3,Archie Browning Sports Centre,ABSC,"1151 Esquimalt Road Esquimalt, BC V9A 3N6",250-412-8510,http://www.fitinfitness.ca/recreation_archie.html
-2,3,Esquimalt Recreation Centre,ERC,"527 Fraser Street Esquimalt, BC V9A 6H6",250-412-8500,http://www.fitinfitness.ca/recreation_esquimalt.html
-3,2,Juan de Fuca Recreation Centre,JDFRC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.fitinfitness.ca/recreation_juandefuca.html
-4,2,The Q Centre,TQC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.fitinfitness.ca/recreation_qcentre.html
-5,8,Henderson Recreation Centre,HRC,"2291 Cedar Hill X Road Victoria, BC V8P 5H9",250-370-7200,http://www.fitinfitness.ca/recreation_henderson.html
-6,8,Monterey Recreation Centre,MRC,"1442 Monterey Avenue Victoria, BC V8S 4W1",250-370-7300,http://www.fitinfitness.ca/recreation_monterey.html
-7,8,Oak Bay Recreation Centre,OBRC,"1975 Bee Street Victoria, BC V8R 5E6",250-595-7946,http://www.fitinfitness.ca/recreation_oakbay.html
-8,7,Panorama Recreation Centre,PanRC,"1885 Forest Park Drive North Saanich, BC V8L 4A3",250-656-7271,http://www.fitinfitness.ca/recreation_panorama.html
-9,10,Greenglade Community Centre,GCC,"2151 Lannon Way Sidney, BC  V8L 3Z1",250-656-7055,https://www.crd.bc.ca/panorama/facilities/greenglade-community
-10,9,Cedar Hill Golf Course,CHGC,"1400 Derby Road Victoria, BC V8P 1T1",250-475-7151,http://www.fitinfitness.ca/recreation_cedarhillgolf.html
-11,9,Cedar Hill Recreation Centre,CHRC,"3220 Cedar Hill Road Victoria, BC V8P 3Y3",250-475-7121,http://www.fitinfitness.ca/recreation_cedarhillrec.html
-12,9,Gordon Head Recreation Centre,GHRC,"4100 Lambrick Way (off Feltham Road) Victoria, BC V8N 5R3",250-475-7100,http://www.fitinfitness.ca/recreation_gordonhead.html
-13,9,Pearkes Recreation Centre,PearkesRC,"3100 Tillicum Road Victoria, BC V9A 6T2",250-475-5400,http://www.fitinfitness.ca/recreation_pearkes.html
-14,,,,,,
-15,,,,,,
-16,,,,,,
-17,,,,,,
-18,,,,,,
-19,,,,,,
-20,,,,,,
-21,,,,,,
+id,region_id,name,abbreviation,street_address,phone,source_url,redirect_to,slug
+1,3,Archie Browning Sports Centre,ABSC,"1151 Esquimalt Road Esquimalt, BC V9A 3N6",250-412-8510,http://www.fitinfitness.ca/recreation_archie.html,,archie-browning-sports-centre
+2,3,Esquimalt Recreation Centre,ERC,"527 Fraser Street Esquimalt, BC V9A 6H6",250-412-8500,http://www.fitinfitness.ca/recreation_esquimalt.html,,esquimalt-recreation-centre
+3,2,Juan de Fuca Recreation Centre,JDFRC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.fitinfitness.ca/recreation_juandefuca.html,,juan-de-fuca-recreation-centre
+4,2,The Q Centre,TQC,"1767 Island Highway Victoria, BC V9B 1J1",250-478-8384,http://www.fitinfitness.ca/recreation_qcentre.html,,the-q-centre
+5,8,Henderson Recreation Centre,HRC,"2291 Cedar Hill X Road Victoria, BC V8P 5H9",250-370-7200,http://www.fitinfitness.ca/recreation_henderson.html,,henderson-recreation-centre
+6,8,Monterey Recreation Centre,MRC,"1442 Monterey Avenue Victoria, BC V8S 4W1",250-370-7300,http://www.fitinfitness.ca/recreation_monterey.html,,monterey-recreation-centre
+7,8,Oak Bay Recreation Centre,OBRC,"1975 Bee Street Victoria, BC V8R 5E6",250-595-7946,http://www.fitinfitness.ca/recreation_oakbay.html,,oak-bay-recreation-centre
+8,7,Panorama Recreation Centre,PanoramaRC,"1885 Forest Park Drive North Saanich, BC V8L 4A3",250-656-7271,http://www.fitinfitness.ca/recreation_panorama.html,,panorama-recreation-centre
+9,10,Greenglade Community Centre,GCC,"2151 Lannon Way Sidney, BC  V8L 3Z1",250-656-7055,https://www.crd.bc.ca/panorama/facilities/greenglade-community,,greenglade-community-centre
+10,9,Cedar Hill Golf Course,CHGC,"1400 Derby Road Victoria, BC V8P 1T1",250-475-7151,http://www.fitinfitness.ca/recreation_cedarhillgolf.html,,cedar-hill-golf-course
+11,9,Cedar Hill Recreation Centre,CHRC,"3220 Cedar Hill Road Victoria, BC V8P 3Y3",250-475-7121,http://www.fitinfitness.ca/recreation_cedarhillrec.html,,cedar-hill-recreation-centre
+12,9,Gordon Head Recreation Centre,GHRC,"4100 Lambrick Way (off Feltham Road) Victoria, BC V8N 5R3",250-475-7100,http://www.fitinfitness.ca/recreation_gordonhead.html,,gordon-head-recreation-centre
+13,9,Pearkes Recreation Centre,PearkesRC,"3100 Tillicum Road Victoria, BC V9A 6T2",250-475-5400,http://www.fitinfitness.ca/recreation_pearkes.html,,pearkes-recreation-centre
+14,9,Saanich Commonwealth Place,SCP,"4636 Elk Lake Drive Victoria, BC V8Z 5M1",250-475-7600,http://www.fitinfitness.ca/recreation_saanich.html,,saanich-commonwealth-place
+15,12,Crystal Pool & Fitness Centre,CPFC,"2275 Quadra Street Victoria, BC V8T 4C4",250-361-0732,http://www.fitinfitness.ca/recreation_crystal.html,,crystal-pool-&-fitness-centre
+16,12,Royal Athletic Park,RAP,"1014 Caledonia Avenue Victoria, BC V8T 1G1",250-361-0373,http://www.fitinfitness.ca/recreation_rap.html,,royal-athletic-park
+17,12,Save-On-Foods Memorial Centre,SOFMC,"1952 Blanshard St Victoria, BC V8T 4J2",250-361-0708,http://www.fitinfitness.ca/recreation_saveon.html,,save-on-foods-memorial-centre
+18,12,Blanshard Community Centre,BlanshardCC,"901 Kings Rd Victoria, BC V8T 1W5",250-388-7696,http://www.fitinfitness.ca/recreation_community.html,19,blanshard-community-centre
+19,12,Quadra Village Community Centre,QVCC,"901 Kings Rd Victoria, BC V8T 1W5",250-388-7696,http://www.quadravillagecc.com/tags/blanshard-community-centre,,quadra-village-community-centre
+20,12,Burnside Community Centre,BurnsideCC,"471 Cecelia Road Victoria, BC V8T 4T4",250-388-5251,http://www.fitinfitness.ca/recreation_community.html,29,burnside-community-centre
+21,12,Fairfield Community Centre,FairfieldCC,"1330 Fairfield Rd Victoria BC V8S 5J1",250-382-4604,http://www.fitinfitness.ca/recreation_community.html,30,fairfield-community-centre
+22,12,Fairfield Activity Centre,FAC,"380 Cook St Victoria BC V8V 3X7",250-384-6542,http://www.fitinfitness.ca/recreation_community.html,?,fairfield-activity-centre
+23,12,Fernwood Community Centre,FernwoodCC,"1240 Gladstone Ave Victoria, BC V8T 1G6",250-381-1552,http://fernwoodnrg.ca/neighbourhood/fernwood-community-centre/,,fernwood-community-centre
+24,12,James Bay Community Centre,JBCC,"140 Oswego St Victoria BC, V8V 2B1",250-389-1470,http://www.fitinfitness.ca/recreation_community.html,32,james-bay-community-centre
+25,12,Oaklands Community Centre,OCC,"#1-2827 Belmont Ave Victoria BC V8R 4B2",250-370-9101,http://www.fitinfitness.ca/recreation_community.html,,oaklands-community-centre
+26,12,Victoria West Community Centre,VWCC,"521 Craigflower Rd Victoria, BC, V9A 6Z5",250-590-8922,http://www.fitinfitness.ca/recreation_community.html,,victoria-west-community-centre
+27,12,James Bay New Horizons,JBNH,"234 Menzies St Victoria BC V8V 2G7",250-386-3035,http://www.jamesbaynewhorizons.ca/,,james-bay-new-horizons
+28,12,Victoria Silver Threads,VST,,250-388-4268,http://www.fitinfitness.ca/recreation_community.html,,victoria-silver-threads
+29,12,Burnside Gorge Community Centre,BGCC,"471 Cecelia Road Victoria, BC V8T 4T4",250-388-5251,http://www.fitinfitness.ca/recreation_community.html,,burnside-gorge-community-centre
+30,12,Fairfield Community Place,FCP,"1330 Fairfield Rd Victoria BC V8S 5J1",250-382-4604,,,fairfield-community-place
+31,12,Fairfield Community Centre - Garry Oaks Room,FCC-GAR,"Thurlow Rd Victoria BC V8S 5K2",,,,fairfield-community-centre---garry-oaks-room
+32,12,James Bay Community School Centre,JBCSC,"140 Oswego St Victoria BC, V8V 2B1",250-389-1470,http://www.jamesbaycentre.ca/,,james-bay-community-school-centre
+33,12,Oaklands Neighbourhood House (Little Acorn),ONH-LA,"2629 Victor St Victoria, BC  V8R 4E3",250-370-9103,http://www.oaklandscommunitycentre.com/,,oaklands-neighbourhood-house-(little-acorn)
+34,12,YMCA-YWCA Downtown,Y-Downtown,"851 Broughton St Victoria, BC V8W 1E5",250-386-7511,http://www.fitinfitness.ca/recreation_ymywca.html,,ymca-ywca-downtown
+35,11,SEAPARC Leisure Complex,SEAPARC,"2168 Phillips Rd Sooke, BC V0S 1N0",250-642-8000,http://www.fitinfitness.ca/recreation_seaparc.html,,seaparc-leisure-complex
+36,5,Eagle Ridge Community Centre,ERCC,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,eagle-ridge-community-centre
+37,5,North Langford Recreation Centre,NLRC,"1999 Country Club Way Victoria, BC V9B 6R3",250-391-7160,https://bearmountain.ca/recreation/fitness/,,north-langford-recreation-centre
+38,5,Langford Lanes,LL,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,langford-lanes
+39,5,Westhills Arena,WHA,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,westhills-arena
+40,5,Westhills Stadium,WHS,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,westhills-stadium
+41,5,Goudy Field,GF,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,goudy-field
+42,5,City Centre Park Mini-Golf,CCPMG,"1089 Langford Pkwy Langford, BC V9A 0A5",250-391-1738,http://www.eagleridgecentre.com/about-city-centre-park,,city-centre-park-mini-golf
